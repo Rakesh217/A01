@@ -1,51 +1,49 @@
-* {  
-    margin: 0px;
-    padding: 0px;
-  }
-  
-  html {
-    display: block;
-  }
-  
-  body {
-    margin: 1em;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    background-image: url("play.jpg");
-    background-size: 100%; 
-  }
-  
 
-  
-  main {
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-    color: #444;
-    padding: 1em;
-  }
-  
-  section {
-    background-color: #006747;
-    color: #fff;
-    border-radius: 0.5em;
-    padding:1em;
-    margin: 2em;
-    font-size: 2em;
-    text-align: center;
-    height: 50%;
-    width: 80%;
-  }
-  
-  ol, ul {
-    padding-left: 1em;
-    padding-bottom: 1em;
-  }
-  
-  li {
-     text-align: left;
-     font-size: 1em;
-  }
-  
-  a {
-    text-decoration: none;
-  }
+body{
+  font-family: times-roman;
+  background-image: url("zod.jpg");
+  background-repeat: no-repeat;
+  background-size: 500%; 
+  text-align: center;
+}
+
+form{
+  align-content: center;
+}
+#post{
+  align-items: center;
+  color: whitesmoke;
+}
+
+h1{
+  color: rgb(175, 202, 226);
+}
+
+h2{
+  color: beige;
+}
+
+#Date{
+ align-content: center;
+}
+
+h3{
+  color: antiquewhite;
+}
+
+#month{
+ width:100px;
+ height:50px;
+}
+
+select{
+  width:100px;
+ height:50px;
+}
+
+#zodiac{
+  font-size: 100%;
+  border: 20px;
+  width:100px;
+ height:50px;
+}
