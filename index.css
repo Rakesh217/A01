@@ -1,0 +1,51 @@
+li:nth-child(even)
+{
+list-style-type:none
+}
+body {background-image: url("Baloon.jpg")}
+
+.section-header{
+color:#66ff99;
+padding:20px;
+font-family:verdana;
+}
+#article
+{
+font-family:verdana;
+color: #ff9966;
+font-size:16px;
+text-align:justify;
+}
+#past-section
+{
+    text-align: left;
+}
+.pre
+{
+   text-align: left;
+}
+#future-section
+{
+    text-align: left;
+}
+#img{
+    height: 400px;
+    width: 300px;
+}
+#video{
+    margin-left: 30%;
+}
+#footer
+{
+font-family:verdana;
+color: blue;
+font-size:16px;
+text-align: center;
+padding:20px;
+}
+.aside-header
+{
+color:white;
+padding:20px;
+font-family: verdana;
+}
