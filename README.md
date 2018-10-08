@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #A02
 This Website consists of 3 web pages.
 First one," Introduction " consists of my introduction.
